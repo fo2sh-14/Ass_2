@@ -12,6 +12,13 @@
 
             // b : because is suuport all principles of OOP
             #endregion
+
+            #region Question 2
+            // a : parent ==> Shipment 
+            // b : child ==> ExpressShipment 
+            // c : members ==> TrackingCode Property
+            // d : because not repeat code and update easier 
+            #endregion
         }
     }
 }
