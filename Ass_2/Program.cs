@@ -7,7 +7,7 @@
             #region Answer Question 1 
             // a :              Class                            Struct                     
             //                 Ref Type                         Value Type                  
-            // storid in         heap                             stack
+            // storid in         heap                              stack
             // Inheritance      support                          not support
             #endregion
         }
