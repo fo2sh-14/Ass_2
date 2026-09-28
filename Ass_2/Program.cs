@@ -9,6 +9,8 @@
             //                 Ref Type                         Value Type                  
             // storid in         heap                              stack
             // Inheritance      support                          not support
+
+            // b : because is suuport all principles of OOP
             #endregion
         }
     }
