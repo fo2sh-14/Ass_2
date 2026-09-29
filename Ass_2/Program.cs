@@ -27,7 +27,7 @@
             // 2. Read the center name
             Console.Write("Enter Center Name: ");
             center.CenterName = Console.ReadLine();
-
+                  
             // 3. Create one StandardShipment
             Console.WriteLine("\n--- Standard Shipment ---");
 
