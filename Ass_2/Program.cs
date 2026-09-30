@@ -22,9 +22,9 @@
 
             #region Part 2 Practical
             // 1. Create a DeliveryCenter
-            DeliveryCenter center = new DeliveryCenter();
+            DeliveryCenter center = new DeliveryCenter(); 
 
-            // 2. Read the center name
+            // 2. Read the center name   
             Console.Write("Enter Center Name: ");
             center.CenterName = Console.ReadLine();
                   
